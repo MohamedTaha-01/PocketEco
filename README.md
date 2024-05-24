@@ -14,7 +14,7 @@ App de android que permite llevar un registro de ingresos y gastos.
 Proyecto final CFGS Desarrollo de Aplicaciones Multiplataforma.
 
 Desarrollada con React Native utilizando el ecosistema Expo. 
-Utiliza Firebase como base de datos.
+Utiliza Firestore como base de datos.
 
 ## Funciones y características
 
