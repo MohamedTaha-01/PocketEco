@@ -1,7 +1,7 @@
 # PocketEco
 
-![Pocket Eco imágen 1](https://i.ibb.co/3rCQ060/pocketeco-1.png)
-![Pocket Eco imágen 2](https://i.ibb.co/ZBk01nf/pocketeco-2.png)
+![pocketeco_1](https://github.com/MohamedTaha-01/PocketEco/assets/96125141/e7262744-2908-4876-9efc-b787a535dcd2)
+![pocketeco_2](https://github.com/MohamedTaha-01/PocketEco/assets/96125141/818c4dc1-197d-4a4f-8741-1761761e258c)
 
 ## Contenidos
 
