@@ -1,14 +1,12 @@
 # PocketEco
 
-![pocketeco_1](https://github.com/MohamedTaha-01/PocketEco/assets/96125141/e7262744-2908-4876-9efc-b787a535dcd2)
-![pocketeco_2](https://github.com/MohamedTaha-01/PocketEco/assets/96125141/818c4dc1-197d-4a4f-8741-1761761e258c)
-
 ## Contenidos
 
 - [Descripción](#descripción)
 - [Funciones y características](#funciones-y-características)
 - [Tecnologías y librerías](#tecnologías-y-librerías)
 - [Contacto](#contacto)
+- [Imágenes](#imágenes)
 
 ## Descripción
 
@@ -39,3 +37,8 @@ Utiliza Firebase como base de datos.
 Correo: mohamedtaha.mt01@gmail.com
 
 [Linkedin](https://es.linkedin.com/in/mohammed-taha-hasan)
+
+## Imágenes
+
+![pocketeco_1](https://github.com/MohamedTaha-01/PocketEco/assets/96125141/e7262744-2908-4876-9efc-b787a535dcd2)
+![pocketeco_2](https://github.com/MohamedTaha-01/PocketEco/assets/96125141/818c4dc1-197d-4a4f-8741-1761761e258c)
