@@ -25,7 +25,7 @@ Utiliza Firestore como base de datos.
 
 ## Tecnologías y librerías
 
-- React native
+- React Native
   - react-navigation
   - react-native-async-storage
   - react-native-gifted-charts
